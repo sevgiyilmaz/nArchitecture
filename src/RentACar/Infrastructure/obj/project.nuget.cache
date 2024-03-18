@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQPfcAh0oV4ntDFsakmbnhblyCbO0ZUogiyxh1/v3V5e3gq+MbI1IHRZPTdmhdRje+6aB+V8ST9kRAmjj3hZqg==",
+  "dgSpecHash": "CaeMt3teAld9RDZEebruyqWizV/sOSmg4WYnm+9IxOwTMvkkbCzRlo+bjsAbG5Hyp56x5edAsFMlKhY5dqdkOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

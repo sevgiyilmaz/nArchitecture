@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sevgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sevgi\\source\\repos\\nArchitecture\\src\\RentACar\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
